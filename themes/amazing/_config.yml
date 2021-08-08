@@ -325,7 +325,7 @@ comment:
     repo: blog_comment          # (required) GitHub repository name
     client_id: f5645331026a094b5b95    # (required) OAuth application client id
     client_secret: 97b4246bfdbbe077769038d163b9667d1b45c4c4 # (required) OAuth application client secret
-    admin: ['HumphreyB612 ']
+    admin: ['HumphreyB612']
     create_issue_manually: true
     distraction_free_mode: false
     has_hot_recommend: false # 是否有热门推荐

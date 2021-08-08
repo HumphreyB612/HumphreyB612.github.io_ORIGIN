@@ -13,10 +13,10 @@ tips：github登录后按时间正序查看、可点赞加❤
 <script src="/js/gitalk_self.min.js"></script>
 <script>
     var gitalk = new Gitalk({
-        clientID: 'f5645331026a094b5b95 ',
+        clientID: 'f5645331026a094b5b95',
         clientSecret: '97b4246bfdbbe077769038d163b9667d1b45c4c4',
         id: '666666',
-        repo: 'issue_database',
+        repo: 'blog_comment',
         owner: 'HumphreyB612',
         admin: "HumphreyB612",
         createIssueManually: true,
